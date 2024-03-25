@@ -12,7 +12,7 @@ public class ModulusOperator {
 		int divRes = var1 / var2; // int division will drop the decimal point
 									// .25 is removed, which composes 0.25*4=1 remainder
 		
-		
+
 		
 		int mod = var1 % var2;
 		System.out.println("mod -> " + mod);    // The division without fraction
