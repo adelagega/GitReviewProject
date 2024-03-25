@@ -3,6 +3,8 @@ package com.neotech.lesson03;
 public class ArithmeticOperators {
 
 	public static void main(String[] args) {
+
+		//we need to make some changes to this class 
 		
 		int num1 = 24,
 			num2 = 5; // declaring and initializing
