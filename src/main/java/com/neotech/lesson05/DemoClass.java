@@ -11,4 +11,8 @@ public class DemoClass {
 
 	}
 
+	public static void print() {
+		System.out.println("partizani is the best");
+	}
+
 }
