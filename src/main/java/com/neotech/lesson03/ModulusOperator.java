@@ -2,6 +2,9 @@ package com.neotech.lesson03;
 
 public class ModulusOperator {
 
+	//modify some lines here
+	//add another line
+
 	public static void main(String[] args) {
 		
 		int var1 = 9, var2 = 4;
@@ -9,7 +12,7 @@ public class ModulusOperator {
 		int divRes = var1 / var2; // int division will drop the decimal point
 									// .25 is removed, which composes 0.25*4=1 remainder
 		
-		System.out.println("divRes -> " + divRes);
+
 		
 		int mod = var1 % var2;
 		System.out.println("mod -> " + mod);    // The division without fraction
