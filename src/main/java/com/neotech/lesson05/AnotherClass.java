@@ -5,6 +5,13 @@ public class AnotherClass {
 
     }
 
+    /**
+     * this method will add two integers
+     * @param a
+     * @param b
+     * @return
+     */
+
     public int add(int a, int b){
         return a+b;
     }
