@@ -11,4 +11,8 @@ public class DemoClass {
 
 	}
 
+	public void test1() {
+		System.out.println("this is just a test method");
+	}
+
 }
