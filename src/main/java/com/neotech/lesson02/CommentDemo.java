@@ -33,7 +33,6 @@ public class CommentDemo {
 	 * we can create a multi-line comment by writing /* and
 	 * then hitting ENTER 
 	 */
-
 		
 		
 		
